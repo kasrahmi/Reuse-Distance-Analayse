@@ -39,8 +39,8 @@ To run the code, ensure you have the required trace files in the correct format.
 
 1. Clone the repository:
 
-git clone <your-repo-url>
-cd <your-repo-directory>
+git clone "https://github.com/kasrahmi/Reuse-Distance-Analayse"
+cd Reuse-Distance-Analayse
 
 2. Ensure the trace files are in the working directory.
 
